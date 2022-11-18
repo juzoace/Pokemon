@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  font-family: 'DM Sans', sans-serif;
+}
+:root {
+  --mainBlue: #150E65;
+  --mainAsh:#8F8F8F;
+}
